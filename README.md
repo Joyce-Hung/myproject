@@ -5,3 +5,4 @@ This repository is built step by step in the tutorial.
 Testing phase-git&github practicing
 Testing phase-pull.
 pull=fetch+merge
+Testing phase-push.
